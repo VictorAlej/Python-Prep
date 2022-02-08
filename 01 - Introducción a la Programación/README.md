@@ -2,6 +2,12 @@
 
 # Primeros Pasos
 
+## Grabación de la Clase 1
+
+<div class="iframeContainer">
+  <iframe src="https://player.vimeo.com/video/674550186" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
 #### Preparando tu computadora
 Antes de comenzar deberás descargar en tu computadora las siguientes herramientas de trabajo:
 1. Editor de texto
@@ -376,7 +382,7 @@ Para conocer mejor el lenguaje que estaremos aprendiendo les compartimos una col
 
 ## Homework
 
-Completa la tarea descrita en el archivo [README](https://github.com/soyHenry/Prep-Course/tree/main/02-JS-I/homework)
+Instalar Visual Studio Code, GitHub y Python para poder comenzar!
 
 <table class="hide" width="100%" style='table-layout:fixed;'>
   <tr>
