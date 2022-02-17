@@ -2,10 +2,10 @@
 
 # Primeros Pasos
 
-## Grabación de la Introducción
+## Grabación de la Clase 1
 
 <div class="iframeContainer">
-  <iframe src="https://player.vimeo.com/video/675579075" allow="autoplay; fullscreen" allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/675578368" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 #### Preparando tu computadora
@@ -310,12 +310,6 @@ De nuevo vuelva a ejecutar en su consola de comando el comando python. Ya están
 8) Manejo de Errores
 9) Vinculación con datos externos
 
-## Grabación de la Clase 1
-
-<div class="iframeContainer">
-  <iframe src="https://player.vimeo.com/video/675578368" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
-
 ## Repositorio del curso
 
 https://github.com/soyHenry/Python-Prep
@@ -385,6 +379,14 @@ Para conocer mejor el lenguaje que estaremos aprendiendo les compartimos una col
 17) Si la implementación es difícil de explicar, es una mala idea.
 18) Si la implementación es fácil de explicar, puede que sea una buena idea.
 19) Los namespaces son una gran idea, ¡tengamos más de esos!
+
+## Recursos adicionales
+
+* [Introducción al Pensamiento Computacional] (https://github.com/karlbehrensg/introduccion-pensamiento-computacional)
+* [Entrenamiento Básico] (https://entrenamiento-python-basico.readthedocs.io/es/latest)
+* [El Libro de Python] (https://ellibrodepython.com/)
+* [Python para todos] (https://www.py4e.com)
+* [Curso Python Videos] (https://youtu.be/G2FCfQj-9ig)
 
 ## Homework
 
